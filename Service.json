@@ -1,0 +1,53 @@
+[
+  {
+    "locationList": [
+      {
+        "name": "Ranch Bandung",
+        "price": 5
+      },
+      {
+        "name": "Transtudio Bandung",
+        "price": 20
+      }
+    ],
+    "name": "Lembang Banding Trip",
+    "type": "Trip",
+    "subtype": "VacationTrip",
+    "basePrice": 30,
+    "duration": 3
+  },
+  {
+    "minimumPerson": 5,
+    "discount": 0.02,
+    "name": "Semarang Trip",
+    "type": "Trip",
+    "subtype": "BusinessTrip",
+    "basePrice": 40,
+    "duration": 5
+  },
+  {
+    "name": "Bekasi Trip",
+    "type": "Trip",
+    "subtype": "PersonalTrip",
+    "basePrice": 25,
+    "duration": 2
+  },
+  {
+    "facilityList": [
+      {
+        "name": "Toilet",
+        "price": 15
+      },
+      {
+        "name": "Bedroom",
+        "price": 25
+      }
+    ],
+    "location": "Jl. Sudirman no 1",
+    "name": "Yogyakarta House Rent",
+    "type": "Rent",
+    "subtype": "House",
+    "basePrice": 35,
+    "duration": 10
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ferdinand",
+    "password": "admin",
+    "email": "admin@admin.com",
+    "role": "Admin"
+  },
+  {
+    "orderList": [],
+    "name": "Stephanus",
+    "password": "admin",
+    "email": "stephanus@admin.com",
+    "role": "Customer"
+  },
+  {
+    "orderList": [],
+    "name": "Daniel",
+    "password": "admin",
+    "email": "daniel@admin.com",
+    "role": "Customer"
+  }
+]

@@ -1,0 +1,6 @@
+*.class
+*.log
+*.jar
+*.docx
+bin/*
+.settings
